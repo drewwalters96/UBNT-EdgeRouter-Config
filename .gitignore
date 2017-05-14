@@ -1,0 +1,7 @@
+auth/
+dhcpd.leases
+scripts/
+support/
+url-filtering/
+user-data/
+wizard/
